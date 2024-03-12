@@ -85,6 +85,7 @@ p.p4 {
 		
     }
 	:root {
+		color-scheme: light only;
 		position: relative;	
 		top: 300px;	
 		font-size: 150px;
